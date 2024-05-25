@@ -54,7 +54,7 @@ Last Changes : 25th May 2024 4:30PM
 
 	* Run the script with the directory to backup as the argument:
     
-          ./script_task2.sh /home/harshil/OPA-1
+          ./backup.sh /home/harshil/OPA-1
     
 	  - If no directory is provided as an argument, the script will prompt you to enter the 
 	    directory to backup.  
